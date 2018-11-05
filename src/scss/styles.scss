@@ -2,3 +2,13 @@
 
 // Bootstrap Sass Imports
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+.jumbotron {
+    margin-bottom: 1rem;
+    background-image: url(pirate-ship.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    text-align: center;
+}

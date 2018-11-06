@@ -6323,3 +6323,6 @@ a.text-dark:hover, a.text-dark:focus {
 
 h2 {
   font-family: 'Gloria Hallelujah'; }
+
+.lead {
+  font-size: 15px; }

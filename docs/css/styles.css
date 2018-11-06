@@ -6320,3 +6320,6 @@ a.text-dark:hover, a.text-dark:focus {
   background-repeat: no-repeat;
   color: black;
   text-align: center; }
+
+h1 {
+  font-family: 'Gloria Hallelujah'; }

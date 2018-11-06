@@ -3,14 +3,16 @@
 // Bootstrap Sass Imports
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
+.nav-link:hover {
+    text-decoration: underline;
+}
+
 .jumbotron {
     margin-bottom: 1rem;
-    background-image: url(pirate-ship.jpg);
-    background-position: 0% 25%;
+    background: url(../media/pirate-ship.jpg) no-repeat center;
     background-size: cover;
-    background-repeat: no-repeat;
-    color: white;
     text-align: center;
+    color: white;
 }
 
 h2 {

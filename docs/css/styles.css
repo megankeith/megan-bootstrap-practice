@@ -6327,7 +6327,8 @@ h1 {
 
 h2 {
   font-family: 'Gloria Hallelujah';
-  color: darkgreen; }
+  color: darkgreen;
+  text-align: center; }
 
 p {
   font-family: 'Open Sans';
@@ -6335,3 +6336,25 @@ p {
 
 .lead {
   font-size: 15px; }
+
+.col-lg-8 {
+  border-left: solid 2px lightgrey; }
+
+footer {
+  text-align: center;
+  margin-top: 8rem;
+  margin-bottom: 3rem;
+  background-color: teal;
+  color: white; }
+
+.card-title {
+  font-family: 'Gloria Hallelujah';
+  color: darkgreen;
+  margin-top: 15px;
+  font-size: 35px; }
+
+.card-text {
+  font-family: 'Gloria Hallelujah'; }
+
+.card-link {
+  font-family: 'Gloria Hallelujah'; }

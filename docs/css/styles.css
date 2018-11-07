@@ -6345,7 +6345,8 @@ footer {
   margin-top: 8rem;
   margin-bottom: 3rem;
   background-color: teal;
-  color: white; }
+  color: white;
+  font-family: 'Open Sans'; }
 
 .card-title {
   font-family: 'Gloria Hallelujah';
